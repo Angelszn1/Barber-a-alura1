@@ -1,0 +1,40 @@
+.TituloPrincipal{
+    padding-left: 30px;
+}
+.TituloCentralizado{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+em strong{
+    color: red;
+}
+img{
+    width: 100%;
+}
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+ul{
+    display: inline-block; 
+    /*solo usar su espacio*/
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.items{
+    font-style: italic
+}
+.diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+}
+h2{
+    text-align: center;
+}
+.ImagenDiferenciales{
+    width: 50%;
+}
